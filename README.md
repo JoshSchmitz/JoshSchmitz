@@ -1,8 +1,8 @@
 ## Joshuah Schmitz - @JoshSchmitz
 
-Email: josh.schmitz1@gmail.com
-LinkedIn: www.linkedin.com/in/joshuahschmitz
-GitHub: @JoshSchmitz - https://github.com/JoshSchmitz
+- Email: josh.schmitz1@gmail.com
+- LinkedIn: www.linkedin.com/in/joshuahschmitz
+- GitHub: @JoshSchmitz - https://github.com/JoshSchmitz
 
 IT Professional looking for a position to apply five years SharePoint experience combined with twelve years web design and development experience in a research and development environment to create solutions that create, support, and innovate business processes.
 
