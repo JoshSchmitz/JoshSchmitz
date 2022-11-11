@@ -13,7 +13,7 @@ Please download my full [Resume](https://github.com/JoshSchmitz/JoshSchmitz/blob
 
 ## IT Systems Specialist
 ### North Homes Children & Family Services
-March 2021 to Present
+March 2021 to September 2022
 
 > Streamlined IT processes and managed relationships with our Managed IT partner using knowledge of combining business process improvements with technology solutions. Developed IT intranet site, documented IT processes, policies, and equipment inventory, and streamlined business processes using SharePoint and Power Automate. Managed $1,000,000+ annual IT budget.
 
