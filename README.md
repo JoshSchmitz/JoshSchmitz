@@ -4,9 +4,10 @@ Email: josh.schmitz1@gmail.com
 LinkedIn: www.linkedin.com/in/joshuahschmitz
 GitHub: @JoshSchmitz - https://github.com/JoshSchmitz
 
-> IT Professional looking for a position to apply five years SharePoint experience combined with twelve years web design and development experience in a research and development environment to create solutions that create, support, and innovate business processes.
+> Front-End Web Developer looking for a remote position where I can be creative, solve problems, and add value to the front end of web applications and websites.
 
-- Currently learning Microsoft Office 365, PowerAutomate, and PowerBI.
+- Currently learning ReactJS, NodeJS, and SPA development.
+- Experience in Microsoft Office 365, PowerAutomate, and PowerBI.
 - Interested in Font-End Web Development techniques, HTML, CSS, and Javascript.
 
 Please download my full [Resume](https://github.com/JoshSchmitz/JoshSchmitz/blob/main/Resume.docx) and [Employment History](https://github.com/JoshSchmitz/JoshSchmitz/blob/main/Employment%20History.docx) if you are interested in reviewing my qualifications.
