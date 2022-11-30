@@ -6,7 +6,7 @@ GitHub: @JoshSchmitz - https://github.com/JoshSchmitz
 
 > Front-End Web Developer looking for a remote position where I can be creative, solve problems, and add value to the front end of web applications and websites.
 
-- Currently learning ReactJS, NodeJS, and SPA development.
+- Currently learning ReactJS, Node.js, and SPA development.
 - Experience in Microsoft Office 365, PowerAutomate, and PowerBI.
 - Interested in Font-End Web Development techniques, HTML, CSS, and Javascript.
 
