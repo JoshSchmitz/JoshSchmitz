@@ -520,4 +520,5 @@ $ npm install antd
 $ cd ..
 $ npm run dev
 ```
+### Commit project and publish to GitHub
 > ### Start Coding!
